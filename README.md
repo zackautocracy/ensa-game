@@ -1,4 +1,4 @@
-## PRENTATION
+## PRESENTATION
 ```
 This work is made by me and zakaria. It's an html5 2D game built with canevas and Javascript I got inspired from the 
 early days video games (star wars).The PC version is fully available and running perfectly (it needs a server to run)
