@@ -4,7 +4,7 @@ This work is made by me and zakaria. It's an html5 2D game built with canevas an
 early days video games (star wars).The PC version is fully available and running perfectly (it needs a server to run)
 I personnally use NodeJs. Just to mention, I'm still working on devices and browsers compatibility (almost there)
 the host is available in the link : http://ip172-18-0-49-brt9b6aosm4g00883tk0-80.direct.labs.play-with-docker.com/
-A complete documentation will be available as soon as I finish the full version so stay tuned!.
+A complete documentation will be available as soon as I finish the full version so stay tuned!
 ```
 
 ## RESOURCES
